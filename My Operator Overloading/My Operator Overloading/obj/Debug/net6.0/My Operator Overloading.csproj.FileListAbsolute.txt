@@ -1,0 +1,15 @@
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/bin/Debug/net6.0/My Operator Overloading
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/bin/Debug/net6.0/My Operator Overloading.deps.json
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/bin/Debug/net6.0/My Operator Overloading.runtimeconfig.json
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/bin/Debug/net6.0/My Operator Overloading.dll
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/bin/Debug/net6.0/My Operator Overloading.pdb
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/My Operator Overloading.csproj.AssemblyReference.cache
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/My Operator Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/My Operator Overloading.AssemblyInfoInputs.cache
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/My Operator Overloading.AssemblyInfo.cs
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/My Operator Overloading.csproj.CoreCompileInputs.cache
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/My Operator Overloading.dll
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/refint/My Operator Overloading.dll
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/My Operator Overloading.pdb
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/My Operator Overloading.genruntimeconfig.cache
+/Users/shanereed/Projects/My Operator Overloading/My Operator Overloading/obj/Debug/net6.0/ref/My Operator Overloading.dll
